@@ -29,7 +29,3 @@ I write documentation the way I write research: precise, structured, and built f
 - LinkedIn: [https://www.linkedin.com/in/emmanuel-biset-5aa4b949/]
 - Email: [biseticos@gmail.com]
 ```
-
-- GitHub: [tu-username]
-- LinkedIn: [https://www.linkedin.com/in/emmanuel-biset-5aa4b949/]
-- Email: [biseticos@gmail.com]
